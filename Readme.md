@@ -1,5 +1,5 @@
 Codul aplicației:
-./blob/main/Controller/lib/main.dart
+https://./blob/main/Controller/lib/main.dart
 
 Aplicația (Android): https://github.com/manea228/edisonii/releases/tag/controller
 
